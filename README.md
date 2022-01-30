@@ -1,6 +1,8 @@
 # shop_app
 
-A new Flutter project.
+Flutter Shopping Application implementing the following features:
+
+- State management using provider package approach, managing form input and validating user Input, animation, Http requests, and authentication
 
 ## Getting Started
 
